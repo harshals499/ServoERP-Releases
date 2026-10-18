@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "channel": "stable",
   "release": {
-    "version": "1.0.1",
-    "versionCode": 520,
+    "version": "1.0.2",
+    "versionCode": 521,
     "packageId": "in.servoerp.engineer",
-    "downloadUrl": "https://github.com/harshals499/ServoERP-Releases/releases/download/mobile-v1.0.1/ServoERP-Engineer-1.0.1.apk",
-    "bytes": 64631360,
-    "sha256": "dd0a098e42c977195cc8293c06d1ebb3b5164970efe51fd50bdaad7370a2e5d1",
-    "notes": "Receive future ServoERP Mobile releases through an in-app update screen. Review the update, download it and approve Android installation while keeping saved field work.",
+    "downloadUrl": "https://github.com/harshals499/ServoERP-Releases/releases/download/mobile-v1.0.2/ServoERP-Engineer-1.0.2.apk",
+    "bytes": 65520266,
+    "sha256": "7080bef5e941849b07f931dcb4e40e609c2c22930c0da86931368ab6792d0e4d",
+    "notes": "The employee app follows ServoERP Desktop's blue navigation, white workspace headers, bordered panels, job hierarchy and consistent field styling, with controls sized for a phone.",
     "minAndroidApi": 21,
-    "sourceCommit": "138bbeb1d73f29fb7a94375a6adb666036e9e8d6"
+    "sourceCommit": "6ad91313ba9e26cfd9632bc5839287517a33bce8"
   }
 }
