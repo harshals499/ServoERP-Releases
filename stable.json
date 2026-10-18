@@ -1,5 +1,15 @@
 {
-  "channel": "stable",
   "schemaVersion": 1,
-  "release": null
+  "channel": "stable",
+  "release": {
+    "version": "1.0.1",
+    "versionCode": 520,
+    "packageId": "in.servoerp.engineer",
+    "downloadUrl": "https://github.com/harshals499/ServoERP-Releases/releases/download/mobile-v1.0.1/ServoERP-Engineer-1.0.1.apk",
+    "bytes": 64631360,
+    "sha256": "dd0a098e42c977195cc8293c06d1ebb3b5164970efe51fd50bdaad7370a2e5d1",
+    "notes": "Receive future ServoERP Mobile releases through an in-app update screen. Review the update, download it and approve Android installation while keeping saved field work.",
+    "minAndroidApi": 21,
+    "sourceCommit": "138bbeb1d73f29fb7a94375a6adb666036e9e8d6"
+  }
 }
