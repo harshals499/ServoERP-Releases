@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "channel": "stable",
   "release": {
-    "version": "1.1.500",
-    "versionCode": 522,
+    "version": "1.1.501",
+    "versionCode": 523,
     "packageId": "in.servoerp.engineer",
-    "downloadUrl": "https://github.com/harshals499/ServoERP-Releases/releases/download/mobile-v1.1.500/ServoERP-Engineer-1.1.500.apk",
+    "downloadUrl": "https://github.com/harshals499/ServoERP-Releases/releases/download/mobile-v1.1.501/ServoERP-Engineer-1.1.501.apk",
     "bytes": 65909767,
-    "sha256": "d7ab7963192fbf93397ff4db05c468e7efde5b133ff1c58ccb905fc4b6c64aae",
-    "notes": "Company-blue desktop-style sign-in and a sidebar for Dashboard, My work, Site monitor, Attendance, Inventory and Employees, alongside existing field visits, saved-work recovery and app updates.",
+    "sha256": "d2de68f277689d9055e19dfdda50cef0a3b8846628ac465f7b51cf6c915bb2d2",
+    "notes": "Restore the company-blue sidebar after updating or reopening the mobile app.",
     "minAndroidApi": 21,
-    "sourceCommit": "bab8e0302d23992d34ad17e7b937040001f96735"
+    "sourceCommit": "ed6e73b580413a73cdd9e1da6311fb8408537392"
   }
 }
