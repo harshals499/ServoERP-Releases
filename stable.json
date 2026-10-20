@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "channel": "stable",
   "release": {
-    "version": "1.1.501",
-    "versionCode": 523,
+    "version": "1.1.502",
+    "versionCode": 524,
     "packageId": "in.servoerp.engineer",
-    "downloadUrl": "https://github.com/harshals499/ServoERP-Releases/releases/download/mobile-v1.1.501/ServoERP-Engineer-1.1.501.apk",
-    "bytes": 65909767,
-    "sha256": "d2de68f277689d9055e19dfdda50cef0a3b8846628ac465f7b51cf6c915bb2d2",
-    "notes": "Restore the company-blue sidebar after updating or reopening the mobile app.",
+    "downloadUrl": "https://github.com/harshals499/ServoERP-Releases/releases/download/mobile-v1.1.502/ServoERP-Engineer-1.1.502.apk",
+    "bytes": 65922055,
+    "sha256": "723563bbd5bf0fa453a28a66255b5a6eafd228e3abd57331594af9d4908e33e0",
+    "notes": "Connect ServoERP Mobile to the desktop office database using a reviewed QR/connection file, with automatic refresh of shared registers.",
     "minAndroidApi": 21,
-    "sourceCommit": "ed6e73b580413a73cdd9e1da6311fb8408537392"
+    "sourceCommit": "19aa59d3ce5402f58825026c6507c872a9a390e7"
   }
 }
